@@ -14,7 +14,8 @@ import ResetPassword from './pages/ResetPassword';
 import VerifyPassword from './pages/VerifyPassword';
 import About from './pages/About';
 
-import Resources from './pages/resources';
+import Resources from './pages/Resources';
+
 const queryClient = new QueryClient();
 
 function App() {
