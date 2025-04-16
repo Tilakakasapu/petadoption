@@ -12,7 +12,8 @@ import Dashboard from './pages/Dashboard';
 import DonatePet from './pages/DonatePet';
 import ResetPassword from './pages/ResetPassword';
 import VerifyPassword from './pages/VerifyPassword';
-import About from './pages/about';
+import About from './pages/About';
+
 import Resources from './pages/resources';
 const queryClient = new QueryClient();
 
